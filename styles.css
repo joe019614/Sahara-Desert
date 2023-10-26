@@ -12,6 +12,7 @@
     padding-left: 8%;
     padding-right: 8%;
     box-sizing: border-box;
+    overflow: hidden;
 }
 .navbar{
     height: 12%;
